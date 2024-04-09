@@ -5,6 +5,7 @@
     "system_error": "cpp",
     "type_traits": "cpp",
     "xtr1common": "cpp",
-    "cstdio": "cpp"
+    "cstdio": "cpp",
+    "ostream": "cpp"
   }
 }
