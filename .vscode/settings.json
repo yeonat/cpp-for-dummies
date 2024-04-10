@@ -6,6 +6,8 @@
     "type_traits": "cpp",
     "xtr1common": "cpp",
     "cstdio": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "cstdlib": "cpp",
+    "xlocale": "cpp"
   }
 }
