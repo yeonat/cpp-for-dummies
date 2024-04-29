@@ -8,6 +8,7 @@
     "cstdio": "cpp",
     "ostream": "cpp",
     "cstdlib": "cpp",
-    "xlocale": "cpp"
+    "xlocale": "cpp",
+    "iosfwd": "cpp"
   }
 }
