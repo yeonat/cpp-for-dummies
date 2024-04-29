@@ -57,12 +57,12 @@ int main(int argc, char *pArgs[])
 
         vv.add((void *)p);
     }
-    cout << “\nHere are the numbers you entered” << endl;
+    cout << "\nHere are the numbers you entered" << endl;
     for (int i = 0; i < vv.size(); i++)
     {
         int *p = (int *)vv.get();
-        cout << i << “:” << *p << endl;
+        cout << i << " : " << *p << endl;
     }
-    system(“PAUSE”);
+    system("PAUSE");
     return 0;
 }
